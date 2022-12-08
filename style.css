@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.parent1 {
+  background-color: rgb(110, 194, 233);
+  border: 5px solid rgb(157, 0, 255);
+  min-height: 70px;
+  display: flex;
+}
+
+.child {
+  background-color: rgb(255, 200, 0);
+  display: flex;
+  align-items: center;
+}
+
+.year__footer {
+  border: 2px solid rgb(255, 6, 6);
+}
+
+.footer__nav-link {
+  border: 2px solid rgb(255, 6, 6);
+}
+
+.rsschool {
+  border: 2px solid rgb(255, 6, 6);
+}
+
+/*  align-items: center; */
